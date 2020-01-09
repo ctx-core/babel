@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/babel",
-	"version": "4.1.37",
+	"version": "4.1.38",
 	"description": "ctx-core babel",
 	"main": "env.js",
 	"module": "env.js",
@@ -29,9 +29,9 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/env": "^8.3.1",
+		"@ctx-core/env": "^8.3.2",
 		"@ctx-core/object": "^8.0.0",
-		"@ctx-core/package": "^3.1.37"
+		"@ctx-core/package": "^3.1.38"
 	},
 	"devDependencies": {
 		"typescript": "^3.7.4"
