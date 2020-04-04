@@ -30,8 +30,8 @@
 	},
 	"dependencies": {
 		"@ctx-core/env": "^8.3.17",
-		"@ctx-core/object": "^8.0.4",
-		"@ctx-core/package": "^3.1.43"
+		"@ctx-core/object": "^8.0.5",
+		"@ctx-core/package": "^3.1.44"
 	},
 	"devDependencies": {
 		"typescript": "^3.8.3"
