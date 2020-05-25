@@ -2,6 +2,7 @@
 	"name": "@ctx-core/babel",
 	"version": "4.1.63",
 	"description": "ctx-core babel",
+	"type": "module",
 	"main": "env.js",
 	"module": "env.js",
 	"types": "env.ts",
