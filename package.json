@@ -2,9 +2,9 @@
 	"name": "@ctx-core/babel",
 	"version": "4.1.75",
 	"description": "ctx-core babel",
-	"main": "env.js",
-	"module": "env.js",
-	"types": "env.ts",
+	"main": "index.js",
+	"module": "index.js",
+	"types": "index.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
