@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/babel",
-	"version": "4.1.82",
+	"version": "4.1.83",
 	"description": "ctx-core babel",
 	"main": "./index.js",
 	"module": "./index.js",
@@ -29,9 +29,9 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/env": "^8.3.46",
-		"@ctx-core/object": "^9.0.0",
-		"@ctx-core/package": "^3.1.64"
+		"@ctx-core/env": "^8.3.47",
+		"@ctx-core/object": "^9.0.1",
+		"@ctx-core/package": "^3.1.65"
 	},
 	"devDependencies": {
 		"typescript": "^3.9.7"
