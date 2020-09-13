@@ -2,6 +2,20 @@
 	"name": "@ctx-core/babel",
 	"version": "4.1.108",
 	"description": "ctx-core babel",
+	"keywords": [
+		"ctx-core",
+		"babel"
+	],
+	"homepage": "https://github.com/ctx-core/babel#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/babel/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/babel.git"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
 	"main": "./index.js",
 	"module": "./index.js",
 	"types": "./index.ts",
@@ -9,33 +23,19 @@
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "tsc -b",
-		"prepublishOnly": "npm run compile",
-		"exec": "$@"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/babel.git"
-	},
-	"keywords": [
-		"ctx-core",
-		"babel"
-	],
-	"author": "Brian Takita",
-	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/babel/issues"
-	},
-	"homepage": "https://github.com/ctx-core/babel#readme",
-	"publishConfig": {
-		"access": "public"
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/env": "^8.3.66",
-		"@ctx-core/object": "^10.0.4",
-		"@ctx-core/package": "^3.1.87"
+		"@ctx-core/env": "workspace:*",
+		"@ctx-core/object": "workspace:*",
+		"@ctx-core/package": "workspace:*"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.2"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"gitHead": "a483fef2bb3c6a097988a27c94eada066656646c"
 }
