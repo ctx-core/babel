@@ -9,7 +9,8 @@
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "tsc -b",
-		"prepublishOnly": "npm run compile"
+		"prepublishOnly": "npm run compile",
+		"exec": "$@"
 	},
 	"repository": {
 		"type": "git",
@@ -36,5 +37,5 @@
 	"devDependencies": {
 		"typescript": "^4.0.2"
 	},
-	"gitHead": "38afdc528ab1da865eac39ab8113cd12d64d6909"
+	"gitHead": "a483fef2bb3c6a097988a27c94eada066656646c"
 }
