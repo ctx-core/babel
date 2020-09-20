@@ -1,5 +1,15 @@
 # @ctx-core/babel
 
+## 5.0.2
+
+### Patch Changes
+
+- fix: install issues: using explicit workspace: versioning
+- Updated dependencies [undefined]
+  - @ctx-core/env@9.0.1
+  - @ctx-core/object@12.0.1
+  - @ctx-core/package@5.0.2
+
 ## 5.0.1
 
 ### Patch Changes
