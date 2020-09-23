@@ -1,5 +1,11 @@
 # @ctx-core/babel
 
+## 5.0.11
+
+### Patch Changes
+
+- version bump to sync with npm
+
 ## 5.0.10
 
 ### Patch Changes
