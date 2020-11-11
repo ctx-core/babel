@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/babel",
-	"version": "5.0.36",
+	"version": "5.0.37",
 	"description": "ctx-core babel",
 	"keywords": [
 		"ctx-core",
@@ -29,7 +29,7 @@
 	"dependencies": {
 		"@ctx-core/env": "workspace:^9.0.27",
 		"@ctx-core/object": "workspace:^13.0.1",
-		"@ctx-core/package": "workspace:^5.0.23"
+		"@ctx-core/package": "workspace:^5.0.24"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.5"
