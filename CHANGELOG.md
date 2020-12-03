@@ -1,5 +1,12 @@
 # @ctx-core/babel
 
+## 5.0.46
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/env@9.1.2
+
 ## 5.0.45
 
 ### Patch Changes
