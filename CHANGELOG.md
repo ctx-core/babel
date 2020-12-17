@@ -1,5 +1,11 @@
 # @ctx-core/babel
 
+## 6.0.0
+
+### Major Changes
+
+- BABEL**POLYFILL**URL->BABEL_POLYFILL_URL,\_version\_\_babel_polyfill->\_babel_polyfill_version
+
 ## 5.0.49
 
 ### Patch Changes
