@@ -1,5 +1,12 @@
 # @ctx-core/babel
 
+## 6.0.23
+
+### Patch Changes
+
+- @ctx-core/object@16.0.4
+- @ctx-core/package@5.0.53
+
 ## 6.0.22
 
 ### Patch Changes
