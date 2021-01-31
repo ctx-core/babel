@@ -1,5 +1,11 @@
 # @ctx-core/babel
 
+## 7.0.1
+
+### Patch Changes
+
+- @ctx-core/package@6.0.1
+
 ## 7.0.0
 
 ### Major Changes
