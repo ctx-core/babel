@@ -1,5 +1,13 @@
 # @ctx-core/babel
 
+## 7.0.24
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.3.0
+  - @ctx-core/package@6.1.9
+
 ## 7.0.23
 
 ### Patch Changes
