@@ -1,5 +1,14 @@
 # @ctx-core/babel
 
+## 7.0.30
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.4.2
+  - @ctx-core/package@6.1.15
+
 ## 7.0.29
 
 ### Patch Changes
