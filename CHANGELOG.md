@@ -1,5 +1,11 @@
 # @ctx-core/babel
 
+## 7.0.42
+
+### Patch Changes
+
+- update dependencies
+
 ## 7.0.41
 
 ### Patch Changes
