@@ -1,5 +1,17 @@
 # @ctx-core/babel
 
+## 7.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.6.0
+  - @ctx-core/package@6.2.0
+
 ## 7.0.47
 
 ### Patch Changes
