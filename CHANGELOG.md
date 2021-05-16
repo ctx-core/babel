@@ -1,5 +1,14 @@
 # @ctx-core/babel
 
+## 7.1.2
+
+### Patch Changes
+
+- .npmignore: + ~
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.6.2
+  - @ctx-core/package@6.2.2
+
 ## 7.1.1
 
 ### Patch Changes
