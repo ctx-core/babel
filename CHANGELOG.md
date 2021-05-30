@@ -1,5 +1,19 @@
 # @ctx-core/babel
 
+## 8.0.0
+
+### Major Changes
+
+- \$ suffix for stores
+- \_ suffix for factory functions
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/object@19.0.0
+  - @ctx-core/package@7.0.0
+
 ## 7.3.1
 
 ### Patch Changes
