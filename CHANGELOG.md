@@ -1,5 +1,14 @@
 # @ctx-core/babel
 
+## 8.0.3
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+- Updated dependencies [undefined]
+  - @ctx-core/object@19.1.2
+  - @ctx-core/package@7.0.1
+
 ## 8.0.2
 
 ### Patch Changes
