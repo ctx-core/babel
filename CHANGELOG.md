@@ -1,5 +1,14 @@
 # @ctx-core/babel
 
+## 8.0.4
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/object@19.1.3
+  - @ctx-core/package@7.0.2
+
 ## 8.0.3
 
 ### Patch Changes
