@@ -1,5 +1,14 @@
 # @ctx-core/babel
 
+## 9.0.5
+
+### Patch Changes
+
+- "prepare": "npm run clean && npm run compile"
+- Updated dependencies [undefined]
+  - @ctx-core/object@20.0.6
+  - @ctx-core/package@8.0.5
+
 ## 9.0.4
 
 ### Patch Changes
