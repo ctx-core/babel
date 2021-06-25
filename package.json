@@ -27,8 +27,8 @@
 		"prepublishOnly": "npm run clean && npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^20.2.0",
-		"@ctx-core/package": "workspace:^8.0.9"
+		"@ctx-core/object": "workspace:^20.2.1",
+		"@ctx-core/package": "workspace:^8.0.10"
 	},
 	"devDependencies": {
 		"typescript": "^4.3.4"
