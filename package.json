@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/babel",
-	"version": "9.0.17",
+	"version": "9.0.18",
 	"description": "ctx-core babel",
 	"keywords": [
 		"ctx-core",
@@ -27,8 +27,8 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^20.3.0",
-		"@ctx-core/package": "workspace:^8.0.15"
+		"@ctx-core/object": "workspace:^20.4.0",
+		"@ctx-core/package": "workspace:^8.0.16"
 	},
 	"devDependencies": {
 		"typescript": "^4.3.5"
