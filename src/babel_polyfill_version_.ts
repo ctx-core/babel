@@ -1,5 +1,5 @@
 import { package_version_ } from '@ctx-core/package'
-export function babel_polyfill_version_() {
+export async function babel_polyfill_version_():Promise<string> {
 	return package_version_('babel-polyfill')
 }
 export {
