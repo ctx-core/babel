@@ -1,5 +1,14 @@
 # @ctx-core/babel
 
+## 10.0.4
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.3
+  - @ctx-core/package@9.0.4
+
 ## 10.0.3
 
 ### Patch Changes
