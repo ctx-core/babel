@@ -1,5 +1,14 @@
 # @ctx-core/babel
 
+## 10.0.9
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.7
+  - @ctx-core/package@9.0.8
+
 ## 10.0.8
 
 ### Patch Changes
