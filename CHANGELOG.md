@@ -1,5 +1,14 @@
 # @ctx-core/babel
 
+## 10.0.14
+
+### Patch Changes
+
+- fix: "exports": "./package.json": "./package.json"
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.12
+  - @ctx-core/package@9.0.13
+
 ## 10.0.13
 
 ### Patch Changes
