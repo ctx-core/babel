@@ -1,5 +1,14 @@
 # @ctx-core/babel
 
+## 10.0.16
+
+### Patch Changes
+
+- typescript: ^4.3.5 -> ^4.4.2
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.17
+  - @ctx-core/package@9.0.15
+
 ## 10.0.15
 
 ### Patch Changes
