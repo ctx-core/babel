@@ -1,5 +1,15 @@
 # @ctx-core/babel
 
+## 10.0.24
+
+### Patch Changes
+
+- @swc/core: ^1.2.113 -> ^1.2.116
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/object@21.0.27
+  - @ctx-core/package@9.1.5
+
 ## 10.0.23
 
 ### Patch Changes
