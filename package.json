@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/babel",
-	"version": "10.0.25",
+	"version": "10.0.26",
 	"description": "ctx-core babel",
 	"keywords": [
 		"ctx-core",
@@ -35,12 +35,12 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^21.0.28",
-		"@ctx-core/package": "workspace:^9.1.6"
+		"@ctx-core/object": "workspace:^21.0.29",
+		"@ctx-core/package": "workspace:^9.1.7"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.52",
-		"@swc/core": "^1.2.117",
+		"@swc/core": "^1.2.118",
 		"typescript": "next"
 	},
 	"publishConfig": {
