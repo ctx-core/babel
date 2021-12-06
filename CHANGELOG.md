@@ -1,5 +1,13 @@
 # @ctx-core/babel
 
+## 10.0.28
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+- Updated dependencies
+  - @ctx-core/package@9.1.9
+
 ## 10.0.27
 
 ### Patch Changes
