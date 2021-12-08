@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/babel",
-	"version": "10.0.28",
+	"version": "10.0.29",
 	"description": "ctx-core babel",
 	"keywords": [
 		"ctx-core",
@@ -21,7 +21,6 @@
 	"types": "./src/index.ts",
 	"exports": {
 		".": {
-			"require": "./dist/index.cjs",
 			"import": "./dist/index.js"
 		},
 		"./package.json": "./package.json"
@@ -35,7 +34,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/object": "workspace:^21.0.30",
-		"@ctx-core/package": "workspace:^9.1.9"
+		"@ctx-core/package": "workspace:^9.1.10"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.52",
