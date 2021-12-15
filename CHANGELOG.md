@@ -1,5 +1,14 @@
 # @ctx-core/babel
 
+## 10.0.33
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/object@22.0.3
+  - @ctx-core/package@9.1.15
+
 ## 10.0.32
 
 ### Patch Changes
