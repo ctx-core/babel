@@ -1,5 +1,14 @@
 # @ctx-core/babel
 
+## 10.0.34
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/object@22.0.4
+  - @ctx-core/package@9.1.16
+
 ## 10.0.33
 
 ### Patch Changes
