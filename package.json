@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/babel",
-	"version": "10.0.31",
+	"version": "10.0.32",
 	"description": "ctx-core babel",
 	"keywords": [
 		"ctx-core",
@@ -19,8 +19,8 @@
 	"type": "module",
 	"exports": {
 		".": {
-			"types": "./src/index.ts",
-			"import": "./dist/index.js"
+			"import": "./dist/index.js",
+			"types": "./src/index.ts"
 		},
 		"./package.json": "./package.json"
 	},
@@ -32,8 +32,8 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^22.0.1",
-		"@ctx-core/package": "workspace:^9.1.13"
+		"@ctx-core/object": "workspace:^22.0.2",
+		"@ctx-core/package": "workspace:^9.1.14"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
