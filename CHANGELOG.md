@@ -1,5 +1,14 @@
 # @ctx-core/babel
 
+## 10.0.38
+
+### Patch Changes
+
+- fix: error TS6059: \* is not under 'rootDir': package.json: types: ./dist/index.d.ts
+- Updated dependencies
+  - @ctx-core/object@22.0.8
+  - @ctx-core/package@9.1.20
+
 ## 10.0.37
 
 ### Patch Changes
