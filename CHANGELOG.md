@@ -1,5 +1,14 @@
 # @ctx-core/babel
 
+## 10.0.37
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/object@22.0.7
+  - @ctx-core/package@9.1.19
+
 ## 10.0.36
 
 ### Patch Changes
