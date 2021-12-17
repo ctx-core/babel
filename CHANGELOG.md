@@ -1,5 +1,14 @@
 # @ctx-core/babel
 
+## 10.0.36
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/object@22.0.6
+  - @ctx-core/package@9.1.18
+
 ## 10.0.35
 
 ### Patch Changes
