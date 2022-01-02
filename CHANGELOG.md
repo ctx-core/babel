@@ -1,5 +1,13 @@
 # @ctx-core/babel
 
+## 10.0.39
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/package@9.1.21
+
 ## 10.0.38
 
 ### Patch Changes
