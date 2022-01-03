@@ -1,5 +1,14 @@
 # @ctx-core/babel
 
+## 10.0.40
+
+### Patch Changes
+
+- version bump
+- Updated dependencies
+  - @ctx-core/object@22.0.10
+  - @ctx-core/package@9.1.22
+
 ## 10.0.39
 
 ### Patch Changes
