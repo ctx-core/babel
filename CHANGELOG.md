@@ -1,5 +1,15 @@
 # @ctx-core/babel
 
+## 10.0.46
+
+### Patch Changes
+
+- package.json: exports: update
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/object@22.1.4
+  - @ctx-core/package@9.1.29
+
 ## 10.0.45
 
 ### Patch Changes
