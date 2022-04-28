@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/babel",
-	"version": "10.0.49",
+	"version": "10.0.50",
 	"description": "ctx-core babel",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/object": "^22.1.8",
+		"@ctx-core/object": "^22.1.9",
 		"@ctx-core/package": "^9.1.32"
 	},
 	"devDependencies": {
