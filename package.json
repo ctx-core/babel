@@ -34,7 +34,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/object": "^22.2.0",
-		"@ctx-core/package": "^9.1.38"
+		"@ctx-core/package": "^9.1.39"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.57",
