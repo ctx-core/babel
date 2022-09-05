@@ -33,7 +33,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/object": "^22.2.7",
+		"@ctx-core/object": "^22.2.8",
 		"@ctx-core/package": "^9.1.43"
 	},
 	"devDependencies": {
