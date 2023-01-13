@@ -1,5 +1,13 @@
 # @ctx-core/babel
 
+## 10.0.74
+
+### Patch Changes
+
+- rimraf: ^3.0.2 -> ^4.0.1
+- Updated dependencies
+  - @ctx-core/package@9.1.57
+
 ## 10.0.73
 
 ### Patch Changes
