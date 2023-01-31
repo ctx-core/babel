@@ -1,5 +1,14 @@
 # @ctx-core/babel
 
+## 10.0.80
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/object@24.1.1
+  - @ctx-core/package@9.1.61
+
 ## 10.0.79
 
 ### Patch Changes
