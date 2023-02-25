@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/babel",
-	"version": "10.1.19",
+	"version": "10.1.20",
 	"description": "ctx-core babel",
 	"keywords": [
 		"ctx-core",
@@ -34,7 +34,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/object": "^26.0.0",
-		"@ctx-core/package": "^9.2.12"
+		"@ctx-core/package": "^9.2.13"
 	},
 	"devDependencies": {
 		"c8": "^7.13.0",
