@@ -1,5 +1,13 @@
 # @ctx-core/babel
 
+## 10.1.46
+
+### Patch Changes
+
+- @ctx-core/object: ^27.3.3 -> ^27.3.4
+- Updated dependencies
+  - @ctx-core/package@9.2.33
+
 ## 10.1.45
 
 ### Patch Changes
