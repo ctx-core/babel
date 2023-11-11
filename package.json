@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/babel",
-	"version": "10.1.145",
+	"version": "10.2.0",
 	"description": "ctx-core babel",
 	"keywords": [
 		"ctx-core",
@@ -17,10 +17,14 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.d.ts",
-	"svelte": "./src/index.js",
+	"files": [
+		"*.d.ts",
+		"./BABEL_POLYFILL_URL",
+		"./babel_polyfill_version_"
+	],
+	"types": "./index.d.ts",
 	"exports": {
-		".": "./src/index.js",
+		".": "./index.js",
 		"./package.json": "./package.json"
 	},
 	"scripts": {
@@ -33,8 +37,8 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/object": "^30.0.0",
-		"@ctx-core/package": "^9.2.117"
+		"@ctx-core/object": "^30.1.0",
+		"@ctx-core/package": "^9.3.0"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
