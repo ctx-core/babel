@@ -1,5 +1,14 @@
 # @ctx-core/babel
 
+## 10.2.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/object@30.1.2
+  - @ctx-core/package@9.3.2
+
 ## 10.2.1
 
 ### Patch Changes
