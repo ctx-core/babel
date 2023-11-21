@@ -1,5 +1,15 @@
 # @ctx-core/babel
 
+## 10.2.36
+
+### Patch Changes
+
+- tsx: ^4.1.4 -> ^4.2.0
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/object@31.1.3
+  - @ctx-core/package@9.3.23
+
 ## 10.2.35
 
 ### Patch Changes
