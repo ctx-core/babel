@@ -1,5 +1,11 @@
 # @ctx-core/babel
 
+## 10.2.174
+
+### Patch Changes
+
+- @ctx-core/package: ^9.3.138 -> ^9.3.139
+
 ## 10.2.173
 
 ### Patch Changes
