@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/babel",
-	"version": "10.2.179",
+	"version": "10.2.180",
 	"description": "ctx-core babel",
 	"keywords": [
 		"ctx-core",
@@ -40,7 +40,7 @@
 		"test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"@ctx-core/package": "^9.3.144"
+		"@ctx-core/package": "^9.3.145"
 	},
 	"devDependencies": {
 		"c8": "^9.1.0",
