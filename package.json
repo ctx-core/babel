@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/babel",
-	"version": "10.2.208",
+	"version": "10.2.209",
 	"description": "ctx-core babel",
 	"keywords": [
 		"ctx-core",
@@ -15,7 +15,11 @@
 		"url": "https://github.com/ctx-core/babel.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-babel@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
@@ -40,7 +44,7 @@
 		"disable:test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"@ctx-core/package": "^9.3.173"
+		"@ctx-core/package": "^9.3.174"
 	},
 	"devDependencies": {
 		"c8": "^9.1.0",
