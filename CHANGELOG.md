@@ -1,5 +1,13 @@
 # @ctx-core/babel
 
+## 10.2.263
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+- Updated dependencies
+  - @ctx-core/package@9.3.228
+
 ## 10.2.262
 
 ### Patch Changes
